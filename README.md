@@ -75,7 +75,7 @@ coy-discover/
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/kaurashi/coy-discover
 cd coy-discover
 ```
 
